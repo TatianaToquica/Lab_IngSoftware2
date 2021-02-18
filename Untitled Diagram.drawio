@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T14:06:27.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="sIadJ_nfHtgnEjyUH8P_" version="14.3.2" type="github">
-  <diagram id="F5RJsY-xPunRCq_uTcoo" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-02-18T20:53:45.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="gIpdAi1ipa2JT0R6QWCG" version="14.3.2" type="github" pages="2">
+  <diagram id="F5RJsY-xPunRCq_uTcoo" name="Digrama Contexto">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Administrador" c4Type="Person" c4Description="Persona que gestiona el restaurante online" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-1">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry y="80" width="240" height="150" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="Persona que hace uso del servicio" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-2">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="630" y="80" width="200" height="150" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Domiciliarios" c4Type="Person" c4Description="Transportan los alimentos." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-3">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="450" y="75" width="170" height="155" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Cocineros" c4Type="Person" c4Description="Encargados de preparar la comida." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-5">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
             <mxGeometry x="270" y="85" width="170" height="145" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Sistema de Pago" c4Type="Software System" c4Description="Plataforma donde el cliente puede pagar su pedido." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-7">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="620" y="510" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Google Maps" c4Type="Software System" c4Description="Ayuda a determinar el tiempo que tardara en llegar el domicilio." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="70" y="475" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Sistema de Almuerzos Online" c4Type="Software System" c4Description="Permite ver diferentes restaurantes y el menú que ofrece cada uno." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="340" y="340" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="" c4Description="Ayuda a la localización de los clientes" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-23">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WCCtJTzR_3BLSYBPGst0-6">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WCCtJTzR_3BLSYBPGst0-6" edge="1">
             <mxGeometry x="0.5742" y="-15" width="160" relative="1" as="geometry">
               <mxPoint x="100" y="460" as="sourcePoint" />
               <mxPoint x="170" y="470" as="targetPoint" />
@@ -49,7 +49,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="" c4Description="Contribuye a la realizacion de las transacciones" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-24">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WCCtJTzR_3BLSYBPGst0-6" target="WCCtJTzR_3BLSYBPGst0-7">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WCCtJTzR_3BLSYBPGst0-6" target="WCCtJTzR_3BLSYBPGst0-7" edge="1">
             <mxGeometry x="0.0841" y="-16" width="160" relative="1" as="geometry">
               <mxPoint x="330" y="380" as="sourcePoint" />
               <mxPoint x="660" y="470" as="targetPoint" />
@@ -58,7 +58,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="" c4Description="Gestiona los platos y visualiza reportes de las ventas." label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-25">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.25;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WCCtJTzR_3BLSYBPGst0-1" target="WCCtJTzR_3BLSYBPGst0-6">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.25;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WCCtJTzR_3BLSYBPGst0-1" target="WCCtJTzR_3BLSYBPGst0-6" edge="1">
             <mxGeometry x="-0.4966" y="-3" width="160" relative="1" as="geometry">
               <mxPoint x="330" y="380" as="sourcePoint" />
               <mxPoint x="490" y="380" as="targetPoint" />
@@ -67,7 +67,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Registra la entrega y el Pago." label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-26">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.541;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WCCtJTzR_3BLSYBPGst0-3" target="WCCtJTzR_3BLSYBPGst0-6">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.541;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WCCtJTzR_3BLSYBPGst0-3" target="WCCtJTzR_3BLSYBPGst0-6" edge="1">
             <mxGeometry x="-0.1318" y="1" width="160" relative="1" as="geometry">
               <mxPoint x="330" y="380" as="sourcePoint" />
               <mxPoint x="490" y="380" as="targetPoint" />
@@ -76,7 +76,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Realiza los pedidos." label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-27">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WCCtJTzR_3BLSYBPGst0-2" target="WCCtJTzR_3BLSYBPGst0-6">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WCCtJTzR_3BLSYBPGst0-2" target="WCCtJTzR_3BLSYBPGst0-6" edge="1">
             <mxGeometry x="-0.4175" y="-6" width="160" relative="1" as="geometry">
               <mxPoint x="360" y="260" as="sourcePoint" />
               <mxPoint x="490" y="380" as="targetPoint" />
@@ -85,7 +85,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Confirmación del Pago" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-29">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryX=0.615;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WCCtJTzR_3BLSYBPGst0-7" target="WCCtJTzR_3BLSYBPGst0-2">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryX=0.615;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WCCtJTzR_3BLSYBPGst0-7" target="WCCtJTzR_3BLSYBPGst0-2" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="730" y="500" as="sourcePoint" />
               <mxPoint x="615" y="390" as="targetPoint" />
@@ -93,10 +93,18 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Diagrama de Contexto" c4Type="ExecutionEnvironment" c4Application="Sistema de Almuerzos Online" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="WCCtJTzR_3BLSYBPGst0-30">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="10" y="590" width="220" height="40" as="geometry" />
           </mxCell>
         </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TQxTPyyYKWaRZZcY6R3i" name="Diagrama Contenedores">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zn6qWteirOUuUzFL4-jA-0" />
+        <mxCell id="zn6qWteirOUuUzFL4-jA-1" parent="zn6qWteirOUuUzFL4-jA-0" />
       </root>
     </mxGraphModel>
   </diagram>
