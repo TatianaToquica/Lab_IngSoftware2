@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T22:39:53.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="OGmEEccCpqKTMbfuFaZB" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-05T23:09:15.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="VNbQ6wC2qb8HWQG3WfYk" version="14.5.7" type="github" pages="3">
   <diagram id="F5RJsY-xPunRCq_uTcoo" name="Digrama Contexto">
-    <mxGraphModel dx="1320" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TQxTPyyYKWaRZZcY6R3i" name="Diagrama Contenedores">
-    <mxGraphModel dx="2147" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zn6qWteirOUuUzFL4-jA-0" />
         <mxCell id="zn6qWteirOUuUzFL4-jA-1" parent="zn6qWteirOUuUzFL4-jA-0" />
@@ -182,10 +182,11 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Entrega el navegador web al consumidor." label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="ox3SjPpwrg4cUNn8UbEY-1">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="zn6qWteirOUuUzFL4-jA-1" source="RBEYqR_mvU8Jb_QxR-2N-2" edge="1">
-            <mxGeometry width="160" relative="1" as="geometry">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zn6qWteirOUuUzFL4-jA-1" source="RBEYqR_mvU8Jb_QxR-2N-2" edge="1" target="RBEYqR_mvU8Jb_QxR-2N-4">
+            <mxGeometry y="35" width="160" relative="1" as="geometry">
               <mxPoint x="200" y="384.5" as="sourcePoint" />
               <mxPoint x="270" y="385" as="targetPoint" />
+              <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
